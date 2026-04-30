@@ -9,10 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a test project that we work in the University Tecnologica de Bolivar, Cartagena-Colombia 
+This is a test project that we work in the University.
 ## How to test
-I want test inputs and output of chips
+I want test inputs and output of chips.
 
 ## External hardware
 
-This circuits used led and servomotor
+This circuits used led and servomotor.
